@@ -33,7 +33,7 @@ We have included 3 projects worth of data.  The amount of data you use is your c
 4. If the Flow data does not match perfectly with Colebrook White Theory, we then see how the pipe parameters (along with other upstream catchment characteristics that are not accounted for in this project) could be altered to make the data match better. This may involve us looking at various permutations of pipes with different gradients, widths and roughness values within reasonable bounds.
 
 ## Expected outputs:
-Basically, we want to change our assessment of data quality from the visual to more robust, quantitative methods. Further, we think there is scope in step 4 to automate the making of various permutations of ‘improved’ pipe parameters. The specifics of the improvements we would like related to the 4 processes outlined in previous section [What we do with this data] (#what-we-do-with-this-data) are:
+Basically, we want to change our assessment of data quality from the visual to more robust, quantitative methods. Further, we think there is scope in step 4 to automate the making of various permutations of ‘improved’ pipe parameters. The specifics of the improvements we would like related to the 4 processes outlined in previous section [What we do with this data](#what-we-do-with-this-data) are:
 1. We would like a more robust method to validate the quality of the rain gauge data.
 2. We would like an automated way of selecting high quality rainfall data for dry weather and storm periods.
 3. We would like a more robust method to validate the quality of the flow data during periods when we have high quality rainfall data. We then want a more robust method of selecting flow data periods based off an alignment of both good quality flow data and rainfall data.
