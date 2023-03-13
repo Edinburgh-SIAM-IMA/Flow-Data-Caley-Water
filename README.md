@@ -14,10 +14,13 @@ Assuming the data quality is good, how can we we make better inferences on pipe 
 ## Provided inputs:
 **1. Rainfall data**
     We use local rain gauge data as an input for simulations to produce predicted catchment inflows within hydraulic model networks of stormwater, combined and foul pipes. We also use national radar data to validate the quality of the recorded rain gauge data.
+
 **2. Flow Data**
     We also receive raw flow data from flow monitors in placed with network pipes at various locations within a catchment. These flow monitors measure flow using a depth monitor and speedometer within a specific pipe. 
+
 **3. Pipe Parameters**
 The pipe’s parameters, namely diameter, gradient (depends on the upstream invert, downstream invert and length of pipe) and roughness influence flow.
+
 **4. Theoretical Colebrook-White Equation**
 A theoretical equation used to predict what the flowrate (l/s) in a pipe at particular depth of flow (m) based on pipe parameters.
 
